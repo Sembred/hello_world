@@ -2,4 +2,5 @@
 Testing
 Dadsad daijdoadowa
 into the wild lands
-git diff
+/n
+git diff myfile.txt
