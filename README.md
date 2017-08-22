@@ -2,4 +2,5 @@
 Testing
 Dadsad daijdoadowa
 /n
-git diff --cached myfile.txt
+git diff --cached
+
