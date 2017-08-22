@@ -3,4 +3,4 @@ Testing
 Dadsad daijdoadowa
 into the wild lands
 /n
-git diff myfile.txt
+git diff master
